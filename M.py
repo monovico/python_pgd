@@ -1,0 +1,11 @@
+import turtle
+turtle.pen()
+turtle.pencolor(1, 0, 1)
+turtle.left(90)
+turtle.forward(100)
+turtle.right(135)
+turtle.forward(85)
+turtle.right(270)
+turtle.forward(85)
+turtle.right(135)
+turtle.forward(100)
